@@ -1,0 +1,11 @@
+### Python ###
+
+# Byte-compiled files
+__pycache__/
+*.swp
+
+# Jupyter notebooks
+.ipynb_checkpoints/
+
+# User-specific files
+backup/
