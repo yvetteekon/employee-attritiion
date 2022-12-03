@@ -2,7 +2,7 @@
 ### Project Context
 **Datacamp Competition:** "Can you help reduce employee turnover?" 
 
-My analysis which was done in Python placed [5th  position] (https://app.datacamp.com/workspace/w/ab949f18-f50d-43b4-bb97-750ec06510bd) provided actionable insights with strategic recommendations to reduce employee attrition.
+My analysis which was done in Python placed [5th  position](https://app.datacamp.com/workspace/w/ab949f18-f50d-43b4-bb97-750ec06510bd) provided actionable insights with strategic recommendations to reduce employee attrition.
 
 ### Project Objectives
 The Board of the human capital department of a large corporation I work for is worried about the relatively high
